@@ -4,7 +4,7 @@
 **JacksonLawrence1/JacksonLawrence1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p align="center">
+<p>
 <a href="https://jacksonlawrence-portfolio.vercel.app/" target="_blank" rel="noreferrer">Website</a> | <a href="mailto://jplqqz@gmail.com?subject=Hi%20from%20GitHub" target="_blank" rel="noreferrer">Email</a>
 </p>
 
