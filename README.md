@@ -20,8 +20,8 @@ Graduated with MEng Computer Science Degree at the University of Bristol in 2023
 
 ## 💻 Current Projects
 
-- <a href="https://github.com/JacksonLawrence1/letterboxd-rec" target="_blank" rel="noreferrer">letterboxd-rec</a> - a tool to recommend movies based on other users' favourite movies using Letterboxd's public API.
-- <a href="https://github.com/JacksonLawrence1/director-spectrum" target="_blank" rel="noreferrer">director-spectrum</a> - an stylistic showcase of how director's and their movies can be modelled across a discrete spectrum.
+- <a href="https://github.com/JacksonLawrence1/letterboxd-rec" target="_blank" rel="noreferrer">letterboxd-rec</a> - recommends movies based on users' public *top 4* on Letterboxd.
+- <a href="https://thedirectorspectrum.vercel.app/" target="_blank" rel="noreferrer">director-spectrum</a> - an stylistic showcase of how director's and their movies can be modelled across a discrete spectrum.
 
 ## 🏫 Learning
 
