@@ -21,29 +21,27 @@ Graduated with MEng Computer Science Degree at the University of Bristol in 2023
 ## 💻 Current Projects
 
 - <a href="https://github.com/JacksonLawrence1/letterboxd-rec" target="_blank" rel="noreferrer">letterboxd-rec</a> - recommends movies based on users' public *top 4* on Letterboxd.
-- <a href="https://thedirectorspectrum.vercel.app/" target="_blank" rel="noreferrer">director-spectrum</a> - an stylistic showcase of how director's and their movies can be modelled across a discrete spectrum.
 
 ## 🏫 Learning
 
-- Svelte
-- HTMX
-- Go
+- Rust
 - Neovim
 
 ### Languages
 
-![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
-![Unity](https://img.shields.io/badge/-Unity-000?logo=unity)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](#)
+[![HTMX](https://img.shields.io/badge/%3C/%3E%20HTMX-3D72D7?logo=mysl&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
