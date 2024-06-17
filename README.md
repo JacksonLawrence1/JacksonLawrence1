@@ -21,7 +21,7 @@ Graduated with MEng Computer Science Degree at the University of Bristol in 2023
 ## 💻 Current Projects
 
 - <a href="https://github.com/JacksonLawrence1/ez-workout-planner" target="_blank" rel="noreferrer">ez-workout-planner</a> - app built with React Native to help plan your workouts easily.
-- <a href="https://github.com/JacksonLawrence1/eportfolio" target="_blank" rel="noreferrer">Personal Website</a> - Converting my website from React to Svelte (the better framework 😎).
+- <a href="https://github.com/JacksonLawrence1/eportfolio" target="_blank" rel="noreferrer">Personal Website</a> - converting my website from React to Svelte (the better framework 😎).
 
 ## 🏫 Learning
 
