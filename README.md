@@ -11,21 +11,22 @@
 Graduated with MEng Computer Science Degree at the University of Bristol in 2023. 
 
 ## 💬 Ask me about
-- Frontend web development (React, Svelte)
+- Frontend web development (htmx, React, Svelte)
 - Video Gaming and Game Development (Unity, Unreal)
 - 3D Modelling and Animation (Blender, Maya)
-- Movies, Directors and Actors 
+- Movies, Directors and Actors
 - Trivia
 - Anything about the Projects on my GitHub!
 
 ## 💻 Current Projects
 
-- <a href="https://github.com/JacksonLawrence1/letterboxd-rec" target="_blank" rel="noreferrer">letterboxd-rec</a> - recommends movies based on users' public *top 4* on Letterboxd.
+- <a href="https://github.com/JacksonLawrence1/ez-workout-planner" target="_blank" rel="noreferrer">ez-workout-planner</a> - app built with React Native to help plan your workouts easily.
+- <a href="https://github.com/JacksonLawrence1/eportfolio" target="_blank" rel="noreferrer">Personal Website</a> - Converting my website from React to Svelte (the better framework 😎).
 
 ## 🏫 Learning
 
 - Rust
-- Neovim
+- Neovim, [my dotfiles](https://github.com/JacksonLawrence1/nvim-config)
 
 ### Languages
 
