@@ -20,7 +20,7 @@ Graduated with MEng Computer Science Degree at the University of Bristol in 2023
 
 ## 💻 Current Projects
 
-- <a href="https://github.com/JacksonLawrence1/ez-workout-planner" target="_blank" rel="noreferrer">ez-workout-planner</a> - app built with React Native to help plan your workouts easily.
+- <a href="https://github.com/JacksonLawrence1/rep-buddy" target="_blank" rel="noreferrer">Rep Buddy</a> - app built with React Native to help plan your workouts easily.
 - <a href="https://github.com/JacksonLawrence1/eportfolio" target="_blank" rel="noreferrer">Personal Website</a> - converting my website from React to Svelte (the better framework 😎).
 
 ## 🏫 Learning
@@ -43,6 +43,7 @@ Graduated with MEng Computer Science Degree at the University of Bristol in 2023
 [![HTMX](https://img.shields.io/badge/%3C/%3E%20HTMX-3D72D7?logo=mysl&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
